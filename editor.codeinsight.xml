@@ -1,0 +1,6 @@
+<application>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
+    <option name="SUPPRESS_WARNINGS" value="false" />
+  </component>
+</application>
