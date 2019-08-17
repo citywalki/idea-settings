@@ -1,3 +1,3 @@
 <application>
-  <component name="MavenVersion" embedderJdk="1.8" mavenHome="C:/Tools/apache-maven-3.6.1" />
+  <component name="MavenVersion" embedderJdk="1.8" />
 </application>
