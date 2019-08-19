@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A base class for defining tag handlers implementing BodyTag. * * &lt;p&gt; * The BodyTagSupport class implements the BodyTag interface and adds * additional convenience methods including getter methods for the * bodyContent property and methods to get at the previous out JspWriter. * * &lt;p&gt; * Many tag handlers will extend BodyTagSupport and only redefine a * few methods." />
       <item value="user-agent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>

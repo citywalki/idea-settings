@@ -1,5 +1,9 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="GotoDeclaration" />
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="control alt button1" />
+  </action>
+  <action id="GotoSuperMethod">
+    <mouse-shortcut keystroke="control button1" />
   </action>
 </keymap>
