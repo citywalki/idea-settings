@@ -1,4 +1,7 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
   <action id="GotoDeclaration" />
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="control alt button1" />
@@ -6,4 +9,5 @@
   <action id="GotoSuperMethod">
     <mouse-shortcut keystroke="control button1" />
   </action>
+  <action id="HippieCompletion" />
 </keymap>
