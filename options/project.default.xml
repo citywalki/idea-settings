@@ -5,8 +5,7 @@
       <component name="PropertiesComponent">
         <property name="project.structure.last.edited" value="Project" />
         <property name="project.structure.proportion" value="0.0" />
-        <property name="project.structure.side.proportion" value="0.29574862" />
-        <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+        <property name="project.structure.side.proportion" value="0.0" />
       </component>
       <component name="masterDetails">
         <states>
@@ -15,7 +14,7 @@
               <splitter-proportions>
                 <option name="proportions">
                   <list>
-                    <option value="0.29574862" />
+                    <option value="0.2" />
                   </list>
                 </option>
               </splitter-proportions>
@@ -23,11 +22,10 @@
           </state>
           <state key="JdkListConfigurable.UI">
             <settings>
-              <last-edited>11</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
-                    <option value="0.29574862" />
+                    <option value="0.2" />
                   </list>
                 </option>
               </splitter-proportions>
@@ -38,7 +36,7 @@
               <splitter-proportions>
                 <option name="proportions">
                   <list>
-                    <option value="0.29574862" />
+                    <option value="0.2" />
                   </list>
                 </option>
               </splitter-proportions>

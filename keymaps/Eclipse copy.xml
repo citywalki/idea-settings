@@ -2,7 +2,9 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
-  <action id="GotoDeclaration" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="control alt button1" />
   </action>
