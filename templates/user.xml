@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="/**" value="/**&#10; * $end$&#10; *&#10; *@author $USER$&#10; *@date $DATE$&#10; *@version 6.0.0&#10; **/" description="Class doc" toReformat="true" toShortenFQNames="true">
+  <template name="/*" value="/**&#10; * $end$&#10; *&#10; *@author $USER$&#10; *@date $DATE$&#10; *@version 6.0.0&#10; **/" description="Class doc" toReformat="true" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="USER" expression="user()" defaultValue="" alwaysStopAt="true" />
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
