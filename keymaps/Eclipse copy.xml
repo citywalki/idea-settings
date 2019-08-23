@@ -12,4 +12,7 @@
     <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="HippieCompletion" />
+  <action id="TogglePresentationMode">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
 </keymap>

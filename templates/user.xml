@@ -7,4 +7,18 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="if" value="if ($where$) {&#10;    $end$&#10;}" description="if语句" toReformat="false" toShortenFQNames="true">
+    <variable name="where" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="try" value="try {&#10;    $end$&#10;} catch (Exception e) {&#10;    throw $exception$&#10;}" description="try catch" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="exception" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>

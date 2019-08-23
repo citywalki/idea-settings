@@ -1,6 +1,5 @@
 <code_scheme name="mycim2plus" version="173">
   <option name="RIGHT_MARGIN" value="110" />
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <JavaCodeStyleSettings>
     <option name="TEST_NAME_PREFIX" value="Test" />
     <option name="TEST_NAME_SUFFIX" value="" />
@@ -41,6 +40,7 @@
     <option name="WRAP_LONG_LINES" value="true" />
     <option name="PARAMETER_ANNOTATION_WRAP" value="5" />
     <option name="VARIABLE_ANNOTATION_WRAP" value="5" />
+    <option name="WRAP_ON_TYPING" value="0" />
     <arrangement>
       <groups>
         <group>
