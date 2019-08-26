@@ -3,6 +3,6 @@
     <option name="reopenLastProject" value="false" />
     <option name="autoSaveFiles" value="false" />
     <option name="showTipsOnStartup" value="false" />
-    <option name="autoSyncFiles" value="false" />
+    <option name="autoSyncFiles" value="true" />
   </component>
 </application>
