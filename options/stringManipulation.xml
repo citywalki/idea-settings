@@ -1,0 +1,9 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="caseSwitchingSettings">
+      <CaseSwitchingSettings>
+        <option name="separatorAfterDigit" value="false" />
+      </CaseSwitchingSettings>
+    </option>
+  </component>
+</application>
